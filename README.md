@@ -68,11 +68,11 @@ products table:
 
 5. Methodology:
 
-• Data Preparation: Created “dim_date” table using ADDCOLUMNS + CALENDAR (DAX functions) → optimize the time of fact
+- Data Preparation: Created “dim_date” table using ADDCOLUMNS + CALENDAR (DAX functions) → optimize the time of fact
 table; created “Quantity” column based on given columns to make “Order_ID” column become unique.
-• Data Modeling: used Dimensional Data Modeling method involving fact and dimension tables (linked by Primary and Foreign 
+- Data Modeling: used Dimensional Data Modeling method involving fact and dimension tables (linked by Primary and Foreign 
 keys).
-• Visualization techniques: The dashboard is developed into 2 parts: Sales Performance & Logistics Performance; Line, bar, pie, 
+- Visualization techniques: The dashboard is developed into 2 parts: Sales Performance & Logistics Performance; Line, bar, pie, 
 stacked charts, cards, and slicers are used to present data performance and comparison.
 
 6. Analysis Process:
