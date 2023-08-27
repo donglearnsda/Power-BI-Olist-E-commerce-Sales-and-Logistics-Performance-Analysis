@@ -2,12 +2,15 @@
 This project used the order data set from an e-commerce platform to develop a dashboard describing the sales and logistics  performance.
 
 1. About the company:
+
 Olist, founded in 2015 by Tiago Dalvi in Curitiba, Brazil, is an e-commerce platform connecting sellers and products to Brazil's main markets. It boasts over 200,000 users in 180 countries and serves 45,000+ shop owners and retailers.
 
 2. About dataset:
+
 This dataset contains 100,000 orders from Olist Store in Brazil, spanning 2016 to 2018. It covers various aspects of orders, including status, price, payment methods, shipping, product details, and customer reviews. Geolocation data with latitude and longitude coordinates for Brazilian zip codes is also included. Note that sensitive information has been anonymized for security.
 
 3. Backgroud:
+
 This dataset is from Olist, a leading Brazilian department store that connects small businesses across the country to various sales channels through a single contract. Sellers can list products on Olist, which handles logistics. Once a customer orders a product, the seller is notified to fulfill it. After delivery, customers receive a satisfaction survey via email to provide feedback on their buying experience. Visit www.olist.com for more information.
 Attention
 - An order can have many items.
@@ -16,6 +19,7 @@ Attention
 to keep information confidential, but not to affect the following data processing
 
 4. Data dictionary:
+
 orders table:
 - order_id: Order ID (numeric)
 - Country_id: Country ID (numeric)
@@ -63,6 +67,7 @@ products table:
 - product_width_cm: Product width (numeric)
 
 5. Methodology:
+
 • Data Preparation: Created “dim_date” table using ADDCOLUMNS + CALENDAR (DAX functions) → optimize the time of fact
 table; created “Quantity” column based on given columns to make “Order_ID” column become unique.
 • Data Modeling: used Dimensional Data Modeling method involving fact and dimension tables (linked by Primary and Foreign 
@@ -71,11 +76,13 @@ keys).
 stacked charts, cards, and slicers are used to present data performance and comparison.
 
 6. Analysis Process:
+
 - Build Data Model
 - Data Cleaning and Standardizing
 - Develop dashboard and contribute conclusions.
 
-8. Analytics Requests:
+7. Analytics Requests:
+
 • Used DAX functions to calculate performance metrics such as #Revenue, #Quantity, #Product, #Sellers, #Freight Value, AVG
 Delivered Days, AVG Product Weight, AVG Product Volume,…
 • Used different types of charts to compare performance under different dimensions such as Time, Payment Type, Area, 
