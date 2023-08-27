@@ -83,8 +83,8 @@ stacked charts, cards, and slicers are used to present data performance and comp
 
 7. Analytics Requests:
 
-• Used DAX functions to calculate performance metrics such as #Revenue, #Quantity, #Product, #Sellers, #Freight Value, AVG
+- Used DAX functions to calculate performance metrics such as #Revenue, #Quantity, #Product, #Sellers, #Freight Value, AVG
 Delivered Days, AVG Product Weight, AVG Product Volume,…
-• Used different types of charts to compare performance under different dimensions such as Time, Payment Type, Area, 
+- Used different types of charts to compare performance under different dimensions such as Time, Payment Type, Area, 
 Category, Seller, Status,…
-• Used Slicers to get deeper view into performance such as Time, Product Categories, States slicers.
+- Used Slicers to get deeper view into performance such as Time, Product Categories, States slicers.
