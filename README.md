@@ -45,7 +45,7 @@ _order_payment_ table:
 - payment_installments: Payment installation (for credit card) (categorical string)
 - payment_value: Payment value (numeric)
 
-product_category_name_translation table:
+_product_category_name_translation_ table:
 - product_category_name: Product category name (categorical string)
 - product_category_name_english: Product English category name (categorical string)
 
@@ -68,11 +68,11 @@ _products_ table:
 
 **5. Analytics Requests:**
 
-- Used DAX functions to calculate performance metrics such as #Revenue, #Quantity, #Product, #Sellers, #Freight Value, AVG
+- Used= DAX functions to calculate performance metrics such as #Revenue, #Quantity, #Product, #Sellers, #Freight Value, AVG
 Delivered Days, AVG Product Weight, AVG Product Volume,…
-- Used different types of charts to compare performance under different dimensions such as Time, Payment Type, Area, 
+- Use different types of charts to compare performance under different dimensions such as Time, Payment Type, Area, 
 Category, Seller, Status,…
-- Used Slicers to get deeper view into performance such as Time, Product Categories, States slicers.
+- Use Slicers to get deeper view into performance such as Time, Product Categories, States slicers.
 
 **6. Methodology:**
 
