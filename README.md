@@ -1,5 +1,9 @@
 # Power-BI-Olist-E-commerce-Sales-and-Logistics-Performance-Analysis
-This project used the order data set from an e-commerce platform to develop a dashboard describing the sales and logistics  performance.
+_This project used the order data set from an e-commerce platform to develop a dashboard describing the sales and logistics  performance._
+
+Dashboard link: 
+
+https://app.powerbi.com/view?r=eyJrIjoiOTQ4NWRkYmYtYWQ3Yi00OWExLTg0OGEtY2MwNTllOWI5YTNlIiwidCI6IjcyNGUyZmNjLWEzNGQtNDJkYy04NmRmLTEyZWI1ZGRmMTQ5ZCIsImMiOjEwfQ%3D%3D
 
 **1. About the company:**
 
