@@ -11,7 +11,7 @@ Olist, founded in 2015 by Tiago Dalvi in Curitiba, Brazil, is an e-commerce plat
 
 **2. Context:**
 
-This dataset is from Olist, a leading Brazilian department store that connects small businesses across the country to various sales channels through a single contract. Sellers can list products on Olist, which handles logistics. Once a customer orders a product, the seller is notified to fulfill it. After delivery, customers receive a satisfaction survey via email to provide feedback on their buying experience. Visit www.olist.com for more information.
+This dataset is from Olist, a leading Brazilian department store that connects small businesses across the country to various sales channels through a single contract. Sellers can list products on Olist, which handles logistics. Once a customer orders a product, the seller is notified to fulfill it. After delivery, customers receive a satisfaction survey via email to provide feedback on their buying experience. Visit [olist's website](https://www.meli.oliststore.com.br/) for more information.
 Attention
 - An order can have many items.
 - Each item can be made by a separate seller.
